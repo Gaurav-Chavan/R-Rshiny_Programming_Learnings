@@ -1,0 +1,17 @@
+Date: 16th July, 2019
+
+# R Pivot Tables
+
+I learned how we can create a pivot table in R using rpivotTable library, 
+it gives us result is an interactive pivot table rendered in either your default browser or 
+the viewer pane of RStudio with single line of code.
+
+More on that, we can also create Heatmap, Barcharts, Line charts and many more.
+
+
+
+** Important Links :
+
+https://github.com/smartinsightsfromdata/rpivotTable
+
+https://www.r-bloggers.com/interactive-pivot-tables-with-r/
