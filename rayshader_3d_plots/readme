@@ -1,0 +1,10 @@
+# Date 15th July 2019
+
+I learned some basics about generating 3d plots using rayshader library, and also how to convert 2D-ggplots into 
+3D plots 
+
+** Important Links :
+
+# 1. https://towardsdatascience.com/how-to-make-stunning-3d-plots-for-better-storytelling-5c93aec80503
+
+# 2. https://github.com/tylermorganwall/rayshader
