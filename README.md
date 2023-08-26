@@ -10,6 +10,12 @@ https://github.com/dreamRs/esquisse
 
 https://github.com/rstudio-education/rstats-ed
 
+https://github.com/h2oai/h2o-tutorials
+
+https://github.com/thomasp85/gganimate
+
+https://github.com/rstudio/DT
+
 
 * RShiny*
   
@@ -21,3 +27,4 @@ https://github.com/daattali/shinyjs
 
 https://github.com/rstudio/shiny-examples
 
+https://github.com/jienagu/D3_folded_charts
